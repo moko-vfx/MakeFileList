@@ -1,11 +1,11 @@
 # MakeFileList
 ファイルパス・フォルダパスをリストアップするツール  
-
+　   
 **◆『MakeFileList』について**  
 　  
 　使用時は MakeFileList_v2.exe を実行してください。  
 　  
-　![ss.jpg](ss.jpg)  
+　![MakeFileList.gif](MakeFileList.gif)  
 　  
 　空欄にリストアップしたいフォルダパスを入力します。  
 　ファイルやフォルダをドラッグ＆ドロップしてもOKです。  
@@ -16,7 +16,7 @@
 　するとツール下部のウインドウにリストアップされます。  
 　  
 　「Copy to Clipboard」ボタンでクリップボードにコピーします。  
-　  
+　   
 **◆更新履歴**  
 
 　2018. 9. 15 v.1  
